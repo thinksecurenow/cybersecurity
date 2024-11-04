@@ -1,6 +1,6 @@
 ThinkSecureNow: Empowering Cybersecurity Minds for non-technical and technical individuals 
 
-Welcome to my blog! Here, I’ll dive into all things cyber, and today I’m excited to share a bit about ThinkSecureNow—a concept that’s all about making cybersecurity approachable, hands-on, and accessible to everyone. If you're passionate about cybersecurity or just getting started, ThinkSecureNow is a place to learn, grow, and connect.
+Welcome to my blog! Here, I’ll dive into all things cyber, and today I’m excited to share a bit about ThinkSecureNow - it is a concept that’s all about making cybersecurity approachable, hands-on, and accessible to everyone. If you're passionate about cybersecurity or just getting started, ThinkSecureNow is a place to learn, grow, and connect.
 
 What is ThinkSecureNow?
 ThinkSecureNow is a platform dedicated to cybersecurity education, from the basics to advanced concepts. Whether you’re interested in Capture the Flag (CTF) challenges, understanding the latest security tools, or brushing up on core topics, ThinkSecureNow provides resources that make learning cybersecurity engaging and practical.
