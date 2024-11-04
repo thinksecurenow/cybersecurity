@@ -1,4 +1,4 @@
-**ThinkSecureNow: Empowering Cybersecurity Minds for non-technical and technical individuals**
+**ThinkSecureNow: Empowering Cybersecurity Minds with Practical Tips**
 
 Welcome to my blog! Here, I’ll dive into all things cyber, and today I’m excited to share a bit about ThinkSecureNow - it is a concept that’s all about making cybersecurity approachable, hands-on, and accessible to everyone. If you're passionate about cybersecurity or just getting started, ThinkSecureNow is a place to learn, grow, and connect.
 
