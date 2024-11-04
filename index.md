@@ -22,4 +22,6 @@ Get Involved!
 
 ThinkSecureNow is for anyone who’s curious about cybersecurity. Whether you're a seasoned pro or just starting out, I believe there’s something here for you. Let’s work together to make cybersecurity knowledge accessible and exciting. Feel free to connect, share your thoughts, or ask questions—community is everything.
 
-Thanks for reading, and welcome to ThinkSecureNow. Stay tuned for more content, and let’s think secure together!
+Thanks for reading, and welcome to ThinkSecureNow. 
+
+Stay tuned for more content, and let’s think secure together!
