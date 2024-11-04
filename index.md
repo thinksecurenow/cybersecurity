@@ -23,6 +23,6 @@ With ThinkSecureNow, you’ll find a range of content, including:
 **Career Tips:** Transitioning into cybersecurity? I’ve been there! I’ll share career advice, resources, and encouragement to help others find their passion and build their skills in this field.
 
 **Get Involved!**
-ThinkSecureNow is for anyone who’s curious about cybersecurity. Whether you're a seasoned pro or just starting out, I believe there’s something here for you. Let’s work together to make cybersecurity knowledge accessible and exciting. Feel free to connect, share your thoughts, or ask questions—community is everything.
+ThinkSecureNow is for anyone who’s curious about cybersecurity. Whether you're a seasoned pro or just starting out, I believe there’s something here for you. Let’s work together to make cybersecurity knowledge accessible and exciting. Feel free to connect, share your thoughts, or ask questions. Remember community is everything.
 
 Thanks for reading, and welcome to ThinkSecureNow. Stay tuned for more content, and let’s think secure together!
